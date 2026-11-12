@@ -1,0 +1,1 @@
+{"name":"Photo Memo","short_name":"Photo Memo","description":"オフラインで写真と思い出を保存するプライベートなフォトメモ","start_url":"./","scope":"./","display":"standalone","background_color":"#0d0d0f","theme_color":"#0d0d0f","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
